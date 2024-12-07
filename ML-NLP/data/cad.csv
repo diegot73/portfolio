@@ -1,0 +1,51 @@
+﻿caso_id,mensaje_id,indice_cd,fecha_ts,cuerpo_mensaje_tx,actor,conversacion_id
+13467703,69222608,2,2024-09-02 16:59:09,42307388 - #CLIENTE VALIDADO#,Cliente,2be02be1-d520-4bbd-ba49-a303cd4603a4
+13467703,69222676,3,2024-09-02 16:59:36,Dale,Cliente,2be02be1-d520-4bbd-ba49-a303cd4603a4
+13467703,69223054,4,2024-09-02 17:02:25,Hola Cristian. ¿Cómo estás? Mi nombre es Milena es un placer atenderte el día de hoy.,CAD,2be02be1-d520-4bbd-ba49-a303cd4603a4
+13467703,69223057,5,2024-09-02 17:02:25,Veo que tenés inconvenientes con tus claves de acceso. ¿Pudiste acercarte a sucursal para hacer la verificación de los datos? Te espero.,CAD,2be02be1-d520-4bbd-ba49-a303cd4603a4
+13467703,69223113,6,2024-09-02 17:02:55,Hola Milena,Cliente,2be02be1-d520-4bbd-ba49-a303cd4603a4
+13467703,69223191,7,2024-09-02 17:03:27,No puedo acercarme porque tuve un accidente y no puedo andar,Cliente,2be02be1-d520-4bbd-ba49-a303cd4603a4
+13467703,69224060,8,2024-09-02 17:10:59,Hay otra solución??,Cliente,2be02be1-d520-4bbd-ba49-a303cd4603a4
+13467703,69224223,9,2024-09-02 17:12:25,Comprendo lo que me indicas y lamento la situación. Veo que anteriormente tampoco pudiste hacerlas desde la App con reconocimiento facial. ¿Pudiste validar si tenés la App actualizada a la última versión?,CAD,2be02be1-d520-4bbd-ba49-a303cd4603a4
+13467703,69224352,10,2024-09-02 17:13:38,Si si lo e descargado mil veces pero me sigue saliendo que están teniendo un problema y que lo intente más tarde,Cliente,2be02be1-d520-4bbd-ba49-a303cd4603a4
+13467703,69224378,11,2024-09-02 17:13:51,Pero eso viene hace un mes por lo menos,Cliente,2be02be1-d520-4bbd-ba49-a303cd4603a4
+13467703,69225128,12,2024-09-02 17:20:22,Lo acabo de hacer nuevamente y no se puede,Cliente,2be02be1-d520-4bbd-ba49-a303cd4603a4
+13467703,69225492,13,2024-09-02 17:23:10,De acuerdo veo que tu tarjeta de débito está activa. ¿La tenés con vos?,CAD,2be02be1-d520-4bbd-ba49-a303cd4603a4
+13467703,69225721,14,2024-09-02 17:24:49,Si tengo una que es rosada  es esa??,Cliente,2be02be1-d520-4bbd-ba49-a303cd4603a4
+13467703,69227388,15,2024-09-02 17:40:49,¿Me confirmarías los últimos 4 dígitos de la misma? ¿Existe la posibilidad de que te llegues a un cajero?,CAD,2be02be1-d520-4bbd-ba49-a303cd4603a4
+13467703,69227440,16,2024-09-02 17:41:24,4784,Cliente,2be02be1-d520-4bbd-ba49-a303cd4603a4
+13467703,69227539,17,2024-09-02 17:42:09,Si pudiera iría milena pero no puedo moverme,Cliente,2be02be1-d520-4bbd-ba49-a303cd4603a4
+13467703,69228875,18,2024-09-02 17:54:43,No se puede solucionar??,Cliente,2be02be1-d520-4bbd-ba49-a303cd4603a4
+13467703,69229522,19,2024-09-02 18:00:29,Quiero darte la tranquilidad de que realicé una solicitud excepcional para que un compañero te llame en las próximas 48 horas y te ayude a generar tus claves de acceso con la gestión 0041911442 nos vamos a comunicar de 8:00 a 18:00 horas desde un número privado.,CAD,2be02be1-d520-4bbd-ba49-a303cd4603a4
+13467703,69229542,20,2024-09-02 18:00:38,Por cualquier otra duda estoy a disposición.,CAD,2be02be1-d520-4bbd-ba49-a303cd4603a4
+13467930,69195567,7,2024-09-02 13:45:56,38698819 - #CLIENTE VALIDADO#,Cliente,af022d05-d494-46cc-a470-beb03c9558ea
+13467930,69195615,8,2024-09-02 13:46:15,Gracias,Cliente,af022d05-d494-46cc-a470-beb03c9558ea
+13467930,69196097,9,2024-09-02 13:49:37,"Hola Emanuel. Mi nombre es Rocío ¿Cómo estas? un gusto saludarte.
+Te pido que nos indiques que operción estabas intentando realizar a la hora que te figuró error fecha monto y horario apróximado por favor.",CAD,af022d05-d494-46cc-a470-beb03c9558ea
+13467930,69196227,10,2024-09-02 13:50:40,Hola buenas tardes Rocío,Cliente,af022d05-d494-46cc-a470-beb03c9558ea
+13467930,69196503,11,2024-09-02 13:52:26,Esperamos dich información Ema para continuar por favor,CAD,af022d05-d494-46cc-a470-beb03c9558ea
+13467930,69196511,12,2024-09-02 13:52:30,Te comento que el día sábado quince realizar una transferencia y me salió que no podía.,Cliente,af022d05-d494-46cc-a470-beb03c9558ea
+13467930,69197154,13,2024-09-02 13:56:26,Hoy me acerque al banco y me dijieron que mi cuenta está bloqueada por Anses. Me acabo de comunicar con Anses y ellos le dicen que no pueden bloquear ninguna cuenta ni pueden.,Cliente,af022d05-d494-46cc-a470-beb03c9558ea
+13467930,69197199,14,2024-09-02 13:56:45,"Ema te pido que continues con estos pasos para avanzar por favor. Un vez que lo realices avisnos para continuar por favor:
+App Bancaria ingresa en > ""Te olvidaste estos datos? > Recuperar Usuario o Clave Bancaria > Ingresá el tipo y número de documento > Seleccioná cómo querés recuperar tus claves ""Con Reconocimiento facial"" > Registrá tu número de celular como Celular Seguro > Ingresá el código que te enviaremos por SMS > Continuar > Crear Clave Bancaria > Ingresá 4 dígitos para tu Clave > Crear Clave > Generar Usuario > Ingresá tu mail (será tu Mail de Seguridad) > Ingresá en la App el código que te enviamos a tu Mail de Seguridad > Continuar > Ingresar >  Activar Token Bancaria.",CAD,af022d05-d494-46cc-a470-beb03c9558ea
+13467930,69197227,15,2024-09-02 13:56:53,Tengo plata que necesito sacar para pagar el colegio de mi nena,Cliente,af022d05-d494-46cc-a470-beb03c9558ea
+13467930,69197499,16,2024-09-02 13:58:54,Todo esto que tengo que hacer es para recuperar mi cuenta...,Cliente,af022d05-d494-46cc-a470-beb03c9558ea
+13467930,69197578,17,2024-09-02 13:59:29,Claro Ema es un proceso que hay que realizar para activar tu cuenta nuevamente no te preocupes.,CAD,af022d05-d494-46cc-a470-beb03c9558ea
+13467930,69197781,18,2024-09-02 14:00:42,Mil gracias lo realizó y me vuelvo a comunicar.,Cliente,af022d05-d494-46cc-a470-beb03c9558ea
+13467930,69197797,19,2024-09-02 14:00:50,Perfecto Ema esperamos tu mensaje.,CAD,af022d05-d494-46cc-a470-beb03c9558ea
+13467930,69199806,20,2024-09-02 14:15:09,En la parte donde tengo que poner el email no me deja,Cliente,af022d05-d494-46cc-a470-beb03c9558ea
+13467930,69202430,21,2024-09-02 14:33:59,Hola ya realice todo lo que me dijiste pero no le dejo poner ningún email así que genere un usuario. Cómo seguimos. ?,Cliente,af022d05-d494-46cc-a470-beb03c9558ea
+13467930,69202637,22,2024-09-02 14:35:24,Al margen de esto quisiera saber porque mi cuenta está bloqueada y porque en el banco me dijieron que lo intervino Anses ya que Anses me notifica que ellos no pueden hacer nada de eso.,Cliente,af022d05-d494-46cc-a470-beb03c9558ea
+13467930,69203139,23,2024-09-02 14:39:11,Emanuel es un bloqueo que desde Anses se gestiona y luego nosotros tenemos la posibilidad de habilitar tu cuenta según la manera en que se realice la validación. Veo que ya pudiste desbloquear la clave te voy a pedir para procede a traves de este medio que envíes una foto selfie otra selfie sosteniendo el DNI otra foto de DNI de frente y otra dorso.,CAD,af022d05-d494-46cc-a470-beb03c9558ea
+13467930,69203411,24,2024-09-02 14:40:56,Ahora que me lo explicas lo entendí.  Porque en el banco que dijieron que tenía que solucionarlo Anses por eso llame,Cliente,af022d05-d494-46cc-a470-beb03c9558ea
+13467930,69203525,25,2024-09-02 14:41:43,Entiendo y me disculpo por la confusión que se generó en base a lo que te han dicho allí Emanuel.,CAD,af022d05-d494-46cc-a470-beb03c9558ea
+13467930,69203553,26,2024-09-02 14:41:56,"El cliente envió un adjunto podés visualizarlo en este link:  
+https://&docid=35CCEBC6-C702-4C66-84E3-FF90D4FE954C",Cliente,af022d05-d494-46cc-a470-beb03c9558ea
+13467930,69203620,27,2024-09-02 14:42:16,"El cliente envió un adjunto podés visualizarlo en este link:  
+https://&docid=66B641C6-8C38-4E07-98C8-7196C072B38A",Cliente,af022d05-d494-46cc-a470-beb03c9558ea
+13467930,69203647,28,2024-09-02 14:42:27,"El cliente envió un adjunto podés visualizarlo en este link:  
+https://&docid=C62EA92C-A215-4A31-8F0C-A416F93BE403",Cliente,af022d05-d494-46cc-a470-beb03c9558ea
+13467930,69203961,29,2024-09-02 14:44:44,"El cliente envió un adjunto podés visualizarlo en este link:  
+https://&docid=532750E5-8003-417B-B200-687051E52276",Cliente,af022d05-d494-46cc-a470-beb03c9558ea
+13467930,69204027,30,2024-09-02 14:45:14,"El cliente envió un adjunto podés visualizarlo en este link:  
+https://&docid=536B9DC8-33F7-4AF1-B72C-B4E096F61C30",Cliente,af022d05-d494-46cc-a470-beb03c9558ea

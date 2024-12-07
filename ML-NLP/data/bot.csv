@@ -1,0 +1,50 @@
+﻿conversacion_id,interaccion_nu,actor_tx,mensaje_tx
+0010765e-ec36-412e-8cf3-c23c9ad32a56,1,USUARIO,Necesito ayuda
+0010765e-ec36-412e-8cf3-c23c9ad32a56,2,BOT, Hola CLARISA ADRIANA ¿cómo estás? Acá Bot. | Podemos hablar de muchas cosas sobre tarjetas. Contame *qué necesitás saber o elegí una opción* y avanzamos. ¿Un tip?: cuando quieras podés escribir *Salir* o hacer cualquier otra pregunta y yo te sigo.  | Consultas de mi tarjeta | Entrega de tarjetas | Info sobre pagos | Pedir una tarjeta | Necesito ayuda
+0010765e-ec36-412e-8cf3-c23c9ad32a56,3,USUARIO,Saldo de la deuda de visa y Master q di de baja
+0010765e-ec36-412e-8cf3-c23c9ad32a56,4,BOT,Podemos hablar de muchas cosas sobre tarjetas.  Contame *qué necesitás saber o elegí una opción* y avanzamos. 1- Últimos movimientos 2- Descargar mi resumen 3- Cierre y vencimiento 4- Consultar límites 5- Débitos automáticos
+0010765e-ec36-412e-8cf3-c23c9ad32a56,5,USUARIO,Resumen de otras tarjetas
+0010765e-ec36-412e-8cf3-c23c9ad32a56,6,BOT,Uy perdón no pude entenderte. Escribime tu consulta en una *frase corta* y te ayudo. Algo así: Clave Bancaria o Dónde está mi tarjeta.
+0010765e-ec36-412e-8cf3-c23c9ad32a56,7,USUARIO,Deuda baja tarjeta
+0010765e-ec36-412e-8cf3-c23c9ad32a56,8,BOT,Bien ¿de qué tarjeta querés el resumen? | MASTER XXXX6212
+0010765e-ec36-412e-8cf3-c23c9ad32a56,9,USUARIO,Master 5677
+0010765e-ec36-412e-8cf3-c23c9ad32a56,10,BOT,Creo que esa no es una de las opciones. ¿Vamos de nuevo? | Bien ¿de qué tarjeta querés el resumen? | MASTER XXXX6212
+0010765e-ec36-412e-8cf3-c23c9ad32a56,11,USUARIO,Master xxxx5677
+0010765e-ec36-412e-8cf3-c23c9ad32a56,12,BOT,Bueno si querés podemos seguir más tarde con esto. ¿Te parece que veamos otra cosa? | Volver a tarjetas | Hablar de otro tema | Eso es todo
+0010765e-ec36-412e-8cf3-c23c9ad32a56,13,USUARIO,Hablar de otro tema
+0010765e-ec36-412e-8cf3-c23c9ad32a56,14,BOT,Dale *escribí el tema* sobre el que querés hablar o *Menú* para ver opciones.
+0010765e-ec36-412e-8cf3-c23c9ad32a56,15,USUARIO,Resumen baja tarjeta Master 5667
+0010765e-ec36-412e-8cf3-c23c9ad32a56,16,BOT,Uy perdón no pude entenderte.  Escribime tu consulta en *una frase corta* y te ayudo. Algo así: Clave Bancaria o Dónde está mi tarjeta.
+0010765e-ec36-412e-8cf3-c23c9ad32a56,17,USUARIO,Representante hablar
+0010765e-ec36-412e-8cf3-c23c9ad32a56,18,BOT,¿Querés consultar por alguna demora en un pago? Puedo ayudarte con eso  | Consultar deudas | Es por otro tema
+0010765e-ec36-412e-8cf3-c23c9ad32a56,19,USUARIO,Es por otro tema
+0010765e-ec36-412e-8cf3-c23c9ad32a56,20,BOT,Enseguida te paso con alguien. Antes por favor escribí en una frase el *tema que querés hablar*:
+0010765e-ec36-412e-8cf3-c23c9ad32a56,21,USUARIO,Consultar deudas
+0010765e-ec36-412e-8cf3-c23c9ad32a56,22,BOT,Muchas gracias te va a *responder por acá*. 
+0012549a-b204-462c-98f6-c35233c49509,1,USUARIO,Hablar con un operador
+0012549a-b204-462c-98f6-c35233c49509,2,BOT, Hola ANTONELLA SOFIA ¿cómo estás? Acá Bot. | Tengo un *equipo preparado para ayudarte* pero pueden tardar un ratito en atenderte. Mientras tanto *contame qué necesitás* y te doy una mano.  Si me escribís *frases cortas* como *Quiero ver mi saldo* mucho mejor.
+0012549a-b204-462c-98f6-c35233c49509,3,USUARIO,Hablar con un operador
+0012549a-b204-462c-98f6-c35233c49509,4,BOT,Enseguida te paso con alguien. Antes por favor escribí en una frase el *tema que querés hablar*:
+0012549a-b204-462c-98f6-c35233c49509,5,USUARIO,Baja productos
+0012549a-b204-462c-98f6-c35233c49509,6,BOT,Muchas gracias te va a *responder por acá*. 
+003d86df-9d84-4515-b1d7-6b9477c17499,1,USUARIO,Hola
+003d86df-9d84-4515-b1d7-6b9477c17499,2,BOT, Hola. *Acá Bot tu asistente virtual.* ¿Viste que tengo la tilde? Este es mi *número oficial.*   Atenti: *nunca voy a pedirte tus claves o Token.* No compartas esa info con nadie por favor. Ahora sí ¿en qué te puedo ayudar hoy? Podés *escribirme lo que necesitás* o elegir un tema y avanzamos: | Cuentas  | Tarjetas  | Mis claves  | Entrega de tarjetas  | Sueldo en Bancaria  | Más temas 
+003d86df-9d84-4515-b1d7-6b9477c17499,3,USUARIO,Más temas 
+003d86df-9d84-4515-b1d7-6b9477c17499,4,BOT,Elegí un tema: | Move  | Préstamos  | Inversiones  | Transferencias  | Seguros  | Terminal de Autoservicio 
+003d86df-9d84-4515-b1d7-6b9477c17499,5,USUARIO,Tarjetas 
+003d86df-9d84-4515-b1d7-6b9477c17499,6,BOT,Podemos hablar de muchas cosas sobre tarjetas. Contame *qué necesitás saber o elegí una opción* y avanzamos. ¿Un tip? cuando quieras podés escribir *Salir* o hacer cualquier otra pregunta y yo te sigo.  | Consultas de mi tarjeta | Entrega de tarjetas | Info sobre pagos | Pedir una tarjeta | Tengo una deuda | Necesito ayuda
+003d86df-9d84-4515-b1d7-6b9477c17499,7,USUARIO,Necesito ayuda
+003d86df-9d84-4515-b1d7-6b9477c17499,8,BOT,Para eso estoy.  ¿Te pasó algo de esto con tu tarjeta? | Me la robaron o la perdí | Problema con un pago | Desconozco un movimiento | Autorizar una compra | Aviso de viaje | Otra cosa
+003d86df-9d84-4515-b1d7-6b9477c17499,9,USUARIO,Otra cosa
+003d86df-9d84-4515-b1d7-6b9477c17499,10,BOT,Probemos con más opciones: 1- Se rompió mi tarjeta 2- Se vence mi tarjeta 3- Cómo leo mi resumen 4- Dar de baja mi tarjeta 5- Hablar de otro tema
+003d86df-9d84-4515-b1d7-6b9477c17499,11,USUARIO,5
+003d86df-9d84-4515-b1d7-6b9477c17499,12,BOT,Dale *escribí el tema* sobre el que querés hablar o *Menú* para ver opciones.
+003d86df-9d84-4515-b1d7-6b9477c17499,13,USUARIO,No obtuve reintegro
+003d86df-9d84-4515-b1d7-6b9477c17499,14,BOT,Uy perdón no pude entenderte.  Escribime tu consulta en *una frase corta* y te ayudo. Algo así: Clave Bancaria o Dónde está mi tarjeta.
+003d86df-9d84-4515-b1d7-6b9477c17499,15,USUARIO,Beneficios
+003d86df-9d84-4515-b1d7-6b9477c17499,16,BOT,Intento pero sigo sin entender tu consulta. 
+003d86df-9d84-4515-b1d7-6b9477c17499,17,USUARIO,Hablar con un humano
+003d86df-9d84-4515-b1d7-6b9477c17499,18,BOT,Estoy entrenando fuerte para poder ayudarte mejor.  Si me escribís *frases cortas* seguro encuentro lo que buscás. Por ejemplo: *quiero ver mi saldo*.
+003d86df-9d84-4515-b1d7-6b9477c17499,19,USUARIO,No me reconoce beneficio
+003d86df-9d84-4515-b1d7-6b9477c17499,20,BOT,Uy perdón no pude entenderte.  Escribime tu consulta en *una frase corta* y te ayudo. Algo así: Clave Bancaria o Dónde está mi tarjeta.
+003d86df-9d84-4515-b1d7-6b9477c17499,21,USUARIO,No me sirve
