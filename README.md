@@ -1,6 +1,7 @@
-## My Portfolio
+## Diego Toscano's Portfolio
 
-<p>In this repository there are some Jupyter Notebooks that I developed in my last jobs as an AI/NLP Engineer.</p>
+<p>In this repository there are some Jupyter Notebooks that I developed in my last jobs for different projects.</p>
+<p><i><b>(NOTE</b>: Data files were not included due to confidentiality issues).</i></p>
 <p>There are 3 folders: Watson Assistant, ML-NLP and GenAI.</p>
 <p>- <b>Watson Assistant</b>: When I was a curator of a virtual assistant (Watson Assistant), I used IBM's own APIs to analyze the bot's development skill and to test utterances to be able to train it better.</p>
 <p>- <b>ML-NLP</b>: There is a bit of everything, such as: 
